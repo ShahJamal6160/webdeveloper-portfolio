@@ -70,9 +70,10 @@ nav{
     margin: 0 200px;
 }
 
-.nav-title{
+.nav-title {
     font-weight: 800;
     font-size: 45;
+    margin-left: 30px;
 }
 
 nav ul{
