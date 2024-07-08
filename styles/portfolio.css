@@ -137,6 +137,7 @@ main section{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
+    margin-top: 40px;
     
 }
 
@@ -164,6 +165,16 @@ main section{
 
 /* skills section style */
 
+
+
+.sectiion-line-text-center{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+
 .skills-container{
     display: flex;
     gap: 24px;
@@ -174,5 +185,41 @@ main section{
     padding: 30px;
     box-shadow: 0px 6px 50px 0px rgb(206, 186, 186);
     border-radius: 5px;
+
+}
+
+/* resumi section style */
+
+.secrion-title{
+   font-size: 35px;
+   font-weight: bold;
+   text-align: center;
+}
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-colum-title{
+    font-weight: bold;
+    font-size: 30px;
+    color: #474747;
+}
+.experiance-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #757575;
+}
+
+.expariance-sub-title{
+    font-size: 20px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.experiance-description{
+    font-size: 16px;
+    color: #757575;
 
 }
